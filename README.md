@@ -1,0 +1,2 @@
+# RND
+Learning new things
